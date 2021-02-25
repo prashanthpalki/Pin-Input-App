@@ -1,6 +1,22 @@
 .App {
   text-align: center;
 }
+.myForm{
+  display: table;
+  margin: auto;
+}
+.submit{
+  background-image: linear-gradient(toright,cyan,orange);
+}
+input{
+  width: 70px;
+  height: 70px;
+  text-align: center !important;
+  display: inline-flex !important;
+  margin: 30px !important;
+  font-size: 30px !important;
+  border: 1px solid crimson;
+}
 
 .App-logo {
   height: 40vmin;
